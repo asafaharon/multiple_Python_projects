@@ -1,0 +1,6 @@
+from pacman_python import app_class
+from pacman_python.app_class import App
+
+if __name__ == '__main__':
+    app = App()
+    app.run()
